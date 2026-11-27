@@ -1,6 +1,6 @@
 {
   "name": "@webship-js/plane-steps",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Cucumber step definitions for Plane, the open-source project and work management software (Community Edition), a pack for webship-js (Playwright and Cucumber): logging in and out and its refusals, a project and who may open it, the work item list, one work item (its state, its comments, its assignee, who last edited it), a new work item, a Guest's limits, and the cycles with their work items. Test content is made and removed through the site's own API, so a run leaves the site as it found it.",
   "main": "tests/step-definitions/plane-helpers.js",
   "files": [
